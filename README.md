@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Amara Latif 👋
 
-<!--
-**AmaraLatif/Amaralatif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BS Computer Science Student | 5th Semester**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in programming, Machine Learning, Artificial Intelligence, and building useful projects.
+
+## 🚀 About Me
+- 🎓 Studying BS Computer Science.
+- 💻 Interested in Python and Machine Learning.
+- 🤖 Exploring Artificial Intelligence and AI tools.
+- 🌱 Learning new technologies and improving my development skills.
+- 🎯 My goal is to build real-world projects and become a skilled developer.
+
+## 🛠️ Skills
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Machine Learning (Learning)
+
+## 📚 Currently Learning
+- Python Programming
+- Machine Learning
+- Data Science
+- Artificial Intelligence
+- Web Development
+
+## 🔗 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/feed/foryou/
+- **Kaggle:** https://www.kaggle.com/
+- **GitHub:** https://github.com/AmaraLatif/Amaralatif/edit/main/README.md
+
+---
+⭐ Thanks for visiting my profile!
