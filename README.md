@@ -30,9 +30,9 @@ I'm a Computer Science student interested in programming, Machine Learning, Arti
 - Web Development
 
 ## 🔗 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/feed/foryou/
+- **LinkedIn:** https://www.linkedin.com/in/amara-latif-shaikh
 - **Kaggle:** https://www.kaggle.com/
-- **GitHub:** https://github.com/AmaraLatif/Amaralatif/edit/main/README.md
+- **GitHub:** https://github.com/AmaraLatif
 
 ---
 ⭐ Thanks for visiting my profile!
